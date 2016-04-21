@@ -1,4 +1,7 @@
 D3.js implementation
 
-Resources:  https://d3js.org/
+Resources:  
+
+https://d3js.org/ 
+
 https://bl.ocks.org/
